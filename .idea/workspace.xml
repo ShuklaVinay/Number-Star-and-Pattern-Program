@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="760eb112-1913-4687-a038-2bb4299f813f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number Star and Character Pattern Program.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NumberPattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +50,37 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NumberPattern1">
     <configuration name="NumberPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberPattern1" />
+      <module name="Number Star and Character Pattern Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern10" />
+      <module name="Number Star and Character Pattern Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern7" />
+      <module name="Number Star and Character Pattern Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern8" />
+      <module name="Number Star and Character Pattern Program" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberPattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern9" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +89,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.NumberPattern1" />
+        <item itemvalue="Application.NumberPattern10" />
+        <item itemvalue="Application.NumberPattern9" />
+        <item itemvalue="Application.NumberPattern8" />
+        <item itemvalue="Application.NumberPattern7" />
       </list>
     </recent_temporary>
   </component>
