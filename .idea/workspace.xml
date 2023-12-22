@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760eb112-1913-4687-a038-2bb4299f813f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NumberPattern16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberPattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberPattern1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,37 +46,37 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberPattern1">
-    <configuration name="NumberPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern1" />
+  <component name="RunManager" selected="Application.NumberPattern16">
+    <configuration name="NumberPattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern12" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern10" />
+    <configuration name="NumberPattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern13" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern7" />
+    <configuration name="NumberPattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern14" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern8" />
+    <configuration name="NumberPattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern15" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern9" />
+    <configuration name="NumberPattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberPattern16" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberPattern1" />
-        <item itemvalue="Application.NumberPattern10" />
-        <item itemvalue="Application.NumberPattern9" />
-        <item itemvalue="Application.NumberPattern8" />
-        <item itemvalue="Application.NumberPattern7" />
+        <item itemvalue="Application.NumberPattern16" />
+        <item itemvalue="Application.NumberPattern15" />
+        <item itemvalue="Application.NumberPattern14" />
+        <item itemvalue="Application.NumberPattern13" />
+        <item itemvalue="Application.NumberPattern12" />
       </list>
     </recent_temporary>
   </component>
