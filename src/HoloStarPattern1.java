@@ -6,7 +6,6 @@
         *         *
         * * * * * * *          */
 
-
 import java.util.Scanner;
 public class HoloStarPattern1 {
     public static void main(String[] args) {
