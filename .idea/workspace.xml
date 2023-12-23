@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="760eb112-1913-4687-a038-2bb4299f813f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberPattern16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharPattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoloStarPattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoloStarPattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HoloStarPattern3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,37 +49,37 @@
     "git-widget-placeholder": "main"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NumberPattern16">
-    <configuration name="NumberPattern12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern12" />
+  <component name="RunManager" selected="Application.HoloStarPattern3">
+    <configuration name="CharPattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CharPattern6" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern13" />
+    <configuration name="HoloStarPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoloStarPattern1" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern14" />
+    <configuration name="HoloStarPattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoloStarPattern2" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern15" />
+    <configuration name="HoloStarPattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HoloStarPattern3" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPattern16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberPattern16" />
+    <configuration name="StarPattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StarPattern1" />
       <module name="Number Star and Character Pattern Program" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberPattern16" />
-        <item itemvalue="Application.NumberPattern15" />
-        <item itemvalue="Application.NumberPattern14" />
-        <item itemvalue="Application.NumberPattern13" />
-        <item itemvalue="Application.NumberPattern12" />
+        <item itemvalue="Application.HoloStarPattern3" />
+        <item itemvalue="Application.HoloStarPattern2" />
+        <item itemvalue="Application.HoloStarPattern1" />
+        <item itemvalue="Application.StarPattern1" />
+        <item itemvalue="Application.CharPattern6" />
       </list>
     </recent_temporary>
   </component>
